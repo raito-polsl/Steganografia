@@ -1,0 +1,4 @@
+﻿  Assembling JA.asm...
+     Trwa tworzenie biblioteki C:\Users\Jakub\source\repos\img-stego\src\x64\Debug\ASM.lib i obiektu C:\Users\Jakub\source\repos\img-stego\src\x64\Debug\ASM.exp
+ASM.exp : warning LNK4070: /OUT: dyrektywa JA.dll w pliku .EXP jest inna niż nazwa pliku wyjściowego "C:\Users\Jakub\source\repos\img-stego\src\x64\Debug\ASM.dll"; dyrektywa została zignorowana
+  ASM.vcxproj -> C:\Users\Jakub\source\repos\img-stego\src\x64\Debug\ASM.dll

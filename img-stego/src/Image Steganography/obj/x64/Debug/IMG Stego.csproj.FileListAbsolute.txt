@@ -1,0 +1,10 @@
+C:\Users\Jakub\source\repos\img-stego\src\Image Steganography\bin\x64\Debug\IMG Stego.exe.config
+C:\Users\Jakub\source\repos\img-stego\src\Image Steganography\bin\x64\Debug\IMG Stego.exe
+C:\Users\Jakub\source\repos\img-stego\src\Image Steganography\bin\x64\Debug\IMG Stego.pdb
+C:\Users\Jakub\source\repos\img-stego\src\Image Steganography\obj\x64\Debug\IMG Stego.csproj.AssemblyReference.cache
+C:\Users\Jakub\source\repos\img-stego\src\Image Steganography\obj\x64\Debug\IMG_Stego.FormStego.resources
+C:\Users\Jakub\source\repos\img-stego\src\Image Steganography\obj\x64\Debug\Image_Steganography.Properties.Resources.resources
+C:\Users\Jakub\source\repos\img-stego\src\Image Steganography\obj\x64\Debug\IMG Stego.csproj.GenerateResource.cache
+C:\Users\Jakub\source\repos\img-stego\src\Image Steganography\obj\x64\Debug\IMG Stego.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\source\repos\img-stego\src\Image Steganography\obj\x64\Debug\IMG Stego.exe
+C:\Users\Jakub\source\repos\img-stego\src\Image Steganography\obj\x64\Debug\IMG Stego.pdb
